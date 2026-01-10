@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rori-Una/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rori-Una/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Rori-Una/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Rori-Una/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Rori-Una/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Rori-Una/LeetCode/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Rori-Una/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
